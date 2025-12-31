@@ -6,4 +6,4 @@ b = 2
 print(a+b)
 
 for i in range(10):
-    print(i)
+    print(i, end = " ")
