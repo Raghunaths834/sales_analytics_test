@@ -1,2 +1,2 @@
 # sales_analytics_test
-My repository
+My repository.
